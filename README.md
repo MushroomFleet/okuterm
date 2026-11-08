@@ -199,7 +199,7 @@ If you use this codebase in your research or project, please cite:
   title = {okuterm: Live okudagram-style terminal dashboards drawn with Unicode block characters},
   author = {Drift Johnson},
   year = {2026},
-  url = {https://github.com/MushroomFleet/okuterm-dev},
+  url = {https://github.com/MushroomFleet/okuterm},
   version = {1.0.0}
 }
 ```
